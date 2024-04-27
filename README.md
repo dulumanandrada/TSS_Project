@@ -17,6 +17,8 @@ Pentru fiecare actiune facuta, se va oferi un reward in functie de cat de aproap
 Se realizeaza antrenarea agentului folosind Q-learning pentru a ajunge in starea finala in cat mai putine mutari.
 Apoi se realizeaza testarea aplicatiei.
 
+Output:
+
 ![exemplu1](https://github.com/dulumanandrada/TSS_Project/assets/94484148/c06e05a5-e18c-4dbf-a21e-e8eba2a6a696)
 
 
