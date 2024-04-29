@@ -3,7 +3,7 @@
 Lucrarea stiintifica aleasa:
 [The role of Reinforcement Learning in software testing](https://www.sciencedirect.com/science/article/pii/S0950584923001805?via%3Dihub)
 
-[Raport articol stiintific](https://docs.google.com/document/d/1q4jXPAGfIrMbYedmCHlNhVHoduHIfxo2PNLlyycfJ0E/edit)
+[Raport articol stiintific](https://github.com/dulumanandrada/TSS_Project/blob/master/Raport%20articol%20%C8%99tiin%C8%9Bific.pdf)
 
 
 ## Q-learning
