@@ -5,6 +5,8 @@ Lucrarea stiintifica aleasa:
 
 [Raport articol stiintific](https://github.com/dulumanandrada/TSS_Project/blob/master/Raport%20articol%20%C8%99tiin%C8%9Bific.pdf)
 
+[Prezentare Proiect](https://docs.google.com/presentation/d/1ghT_l2KLd_AmgbbGGf7UivDK-ZUejfM5759AXEKLqE4/edit#slide=id.g2d0767df0ae_0_200)
+
 
 ## Q-learning
 ### Descriere mini-aplicatie
