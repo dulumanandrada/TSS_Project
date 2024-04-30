@@ -10,7 +10,7 @@ Lucrarea stiintifica aleasa:
 
 ## Q-learning
 ### Descriere mini-aplicatie
-Avemn o matrice de tip 5x5, o stare initiala (0,0) si o stare finala (4,4) in care dorim sa ajungem.
+Avem o matrice de tip 5x5, o stare initiala (0,0) si o stare finala (4,4) in care dorim sa ajungem.
 Exista 4 tipuri de mutari pe grid: UP, DOWN, LEFT, RIGHT.
 Pentru fiecare actiune facuta, se va oferi un reward in functie de cat de aproape sau departe este agentul de starea finala, astfel:
 - distanta euclidiana dintre starea finala si cea actuala * (-10)
